@@ -1,15 +1,13 @@
-### Hi, I'm Joran also known as Autovw!
+#### Hi, I'm Autovw!
 
+##### My mods
 
-I like creating all kinds of cool stuff :)
+| Burger Mod | soon... |
+|------------|---------|
+|![Burger Mod](https://i.postimg.cc/hGTLW7Hh/background-burgermod.png)|![Soon](https://i.postimg.cc/PxLxyKHQ/background-soon.png)|
+| [💾 Download mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/autovws-burger-mod) |
+| [🐛 Report bugs](https://github.com/Autovw/BurgerMod/issues/new) |
+| [⌨️ Contribute](https://github.com/Autovw/BurgerMod/pulls/new) |
+| [📖 View license](https://github.com/Autovw/BurgerMod/blob/1.16.X/LICENSE) |
 
-I have some knowledge of both Python and Java.
-
-#### Tools I use:
-<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/Autovw/Autovw/blob/main/vsclogo.png?raw=true" />
-<img align="left" alt="IntelliJ IDEA" width="30px" src="https://github.com/Autovw/Autovw/blob/main/IntelliJ_IDEA_Icon.png?raw=true" />
-
-<!---
-Autovw/Autovw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Follow me on Twitter for mod updates and more! [@JoranAutovw](https://twitter.com/JoranAutovw)
