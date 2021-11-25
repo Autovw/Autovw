@@ -4,7 +4,7 @@
 
 | Advanced Netherite | Burger Mod |
 |--------------------|------------|
-|![AN](https://i.postimg.cc/d0MjycfS/background-advancednetherite.png)|![BM](https://i.postimg.cc/xdPcMj9W/background-burgermod-2-0-bricks.png)|
+|![AN](https://i.postimg.cc/9QSbwK7q/Advanced-Netherite-Banner.png)|![BM](https://i.postimg.cc/7hLnN1WK/Burger-Mod-Banner.png)|
 | [💾 Download mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite) | [💾 Download mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/autovws-burger-mod) |
 | [📘 View source code](https://github.com/Autovw/AdvancedNetherite) | [📘 View source code](https://github.com/Autovw/BurgerMod) |
 | [📚 View Wiki](https://github.com/Autovw/AdvancedNetherite/wiki) | [📚 View Wiki](https://github.com/Autovw/BurgerMod/wiki) |
