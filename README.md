@@ -18,6 +18,6 @@
 | [📚 View Wiki](https://github.com/Autovw/MoreConcrete/wiki) | [📘 Enchantable (by MrCrayfish)](https://github.com/MrCrayfish/Enchantable) |
 | [🐛 Report bugs](https://github.com/Autovw/MoreConcrete/issues/new) | [📘 Better Barrels (br Mr. Pineapple)](https://github.com/Mr-Pineapple/BetterBarrels) |
 
-Follow me on Twitter for mod updates and more! [@JoranAutovw](https://twitter.com/JoranAutovw)
+Follow me on Twitter for mod updates and more! [@AutovwDev](https://twitter.com/AutovwDev)
 
 Join [Autovw's Modding Community Discord Server](https://discord.com/invite/KP3BBatuw5) to get notified about updates, mod support and more!
