@@ -5,7 +5,7 @@
 | Advanced Netherite | Burger Mod |
 |--------------------|------------|
 |![AN](https://i.postimg.cc/bv5LdRY8/Advanced-Netherite-Banner-V11.png)|![BM](https://i.postimg.cc/7hLnN1WK/Burger-Mod-Banner.png)|
-| **💾 CurseForge:** [Forge](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite) / [Fabric]() | **💾 CurseForge:** [Forge](https://www.curseforge.com/minecraft/mc-mods/autovws-burger-mod) |
+| **💾 CurseForge:** [Forge](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite) / [Fabric](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric) | **💾 CurseForge:** [Forge](https://www.curseforge.com/minecraft/mc-mods/autovws-burger-mod) |
 | **📘 Source code:** [Forge](https://github.com/Autovw/AdvancedNetherite) / [Fabric](https://github.com/Autovw/AdvancedNetheriteFabric) | **📘 Source code:** [Forge](https://github.com/Autovw/BurgerMod) |
 | **📚 View Wiki:** [Forge](https://github.com/Autovw/AdvancedNetherite/wiki) / [Fabric](https://github.com/Autovw/AdvancedNetheriteFabric/wiki) | **📚 View Wiki:** [Forge](https://github.com/Autovw/BurgerMod/wiki) |
 | **🐛 Report bugs:** [Forge](https://github.com/Autovw/AdvancedNetherite/issues/new) / [Fabric](https://github.com/Autovw/AdvancedNetheriteFabric/issues/new) | **🐛 Report bugs:** [Forge](https://github.com/Autovw/BurgerMod/issues/new) |
